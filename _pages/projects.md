@@ -1,6 +1,7 @@
 ---
 title: "프로젝트"
 permalink: /projects/
+layout: projects
 author_profile: true
 taxonomy: 프로젝트
 ---
