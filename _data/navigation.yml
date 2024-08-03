@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "프로젝트"
-    url: /categories/projects/
+    url: /projects/
   - title: "Category"
     url: /categories/
   # - title: "Quick-Start Guide"
