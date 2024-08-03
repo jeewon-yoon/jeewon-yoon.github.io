@@ -5,7 +5,7 @@ layout: category
 author_profile: true
 ---
 
-1.  [Persistent Homology 프로젝트]({{site.url}}/projects/project-1/)
+1.  [Persistent Homology 프로젝트](https://jeewon-yoon.github.io/projects/2024-08-03-project-1/)
 2.  [Connectome based Predictive Modeling 프로젝트](https://jeewon-yoon.github.io/projects/project-2/)
 3.  [Generalized Linear Mixed Effects Model](https://jeewon-yoon.github.io/projects/project-3/)
 4.  [Reward Segmentation](https://jeewon-yoon.github.io/projects/project-4/)
