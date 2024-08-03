@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Projects"
-    url: /year-archive/
+  - title: "프로젝트"
+    url: /projects/
   - title: "Category"
     url: /categories/
   # - title: "Quick-Start Guide"
