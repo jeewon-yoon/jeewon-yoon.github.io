@@ -1,7 +1,7 @@
 ---
 title: "프로젝트"
 permalink: /projects/
-layout: category
+layout: single
 author_profile: true
 ---
 
