@@ -5,9 +5,9 @@ layout: single
 author_profile: true
 ---
 
-1.  [Persistent Homology 프로젝트](https://jeewon-yoon.github.io/projects/2024-08-03-project-1/)
-2.  [Connectome based Predictive Modeling 프로젝트](https://jeewon-yoon.github.io/projects/project-2/)
-3.  [Generalized Linear Mixed Effects Model](https://jeewon-yoon.github.io/projects/project-3/)
-4.  [Reward Segmentation](https://jeewon-yoon.github.io/projects/project-4/)
-5.  [제주도 카드 이용 데이터 - 코드잇 프로젝트](https://jeewon-yoon.github.io/projects/project-5/)
+1.  [Connectome based Predictive Modeling](https://jeewon-yoon.github.io/projects/2024-08-03-project-1/)
+2.  [실험설계에서 일반화 선형 혼합효과 모형](https://jeewon-yoon.github.io/projects/project-2/)
+3.  [Reward Segmentation and Gambling task](https://jeewon-yoon.github.io/projects/project-3/)
+4.  [대형마트 고객 세분화 분석 (RFM/코호트)](https://jeewon-yoon.github.io/projects/project-4/)
+5.  [Kaggle 데이터](https://jeewon-yoon.github.io/projects/project-5/)
 
