@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "프로젝트"
+  - title: "Project"
     url: /projects/
-  - title: "Category"
-    url: /categories/
+  - title: "About"
+    url: /about/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
